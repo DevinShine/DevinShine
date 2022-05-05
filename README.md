@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is DevinShine, a software engineer at Bilibili.
+My name is DevinShine, a software engineer.
 
 - 🌱 I’m currently learning graphics
 - 💬 Ask me about iOS development or render development
